@@ -22,13 +22,13 @@ You may be interested in sharing your extension for others to download and use i
 ## Gallery Card Example
 This is what an extension looks like to a user while browsing the Extension Gallery. 
 
-![gallery card example](imgs/gallery card example.png)
+![gallery card example](imgs/gallery%20card%20example.png)
 
 |     | Details | 
 | --- | ------- | 
 | **Extension Name**  | The name of your extension must clearly communicate what it does in one to three words. Use title case, making sure that each word starts with a capital letter. |
-| **Extension Icon**  | The icon for your extension will be displayed at a small size, so ensure that all the important visual elements of your icon are easily visible. Dimensions for the icon must be 280x280 pixels and uploaded as a .PNG file with transparency. Learn more about branding at [Branding your Extension](Style Guidelines/7 - Branding your Extension.md). |
-| **Tagline**         | The tagline is one sentence that explains what the extension does. The maximum length is 96 characters. This tagline is also used within the extension configuration dialog. Learn more at [Modes](4 - Modes.md).|
+| **Extension Icon**  | The icon for your extension will be displayed at a small size, so ensure that all the important visual elements of your icon are easily visible. Dimensions for the icon must be 280x280 pixels and uploaded as a .PNG file with transparency. Learn more about branding at [Branding your Extension](Style%20Guidelines/4%20-%20Branding%20your%20Extension.md). |
+| **Tagline**         | The tagline is one sentence that explains what the extension does. The maximum length is 96 characters. This tagline is also used within the extension configuration dialog. Learn more at [Extension Components and Modes](Interaction%20Guidelines/2%20-%20Extension%20Components%20and%20Modes.md).|
 
 
 &nbsp; 
@@ -36,7 +36,7 @@ This is what an extension looks like to a user while browsing the Extension Gall
 ## Gallery Page Example
 Users reach pages like this when they want to know more about a particular extension. 
 
-![gallery page example](imgs/gallery page example.png)
+![gallery page example](imgs/gallery%20page%20example.png)
 
 |     | Details | 
 | --- | ------- | 
@@ -71,16 +71,3 @@ Lastly, be sure to **attach these files** before sending the email.
 * Extension Icon
 * Featured Images
 * Additional/optional PDF files (for Developer Info section)
-
-
-
-&nbsp;
-
-&nbsp;
-
----
-
-### <div id="expand-box"><div id="expand-box-header">[<span style="float: right;">Parts of an Extension &#8594;</span>](3 - Parts of an Extension.md)</div></div>
-
-##### <div id="expand-box"><div id="expand-box-header">[<span style="float: left;">&#8592; Lifecycle of an Extension</span>](1 - Lifecycle of an Extension.md)</div></div>
-
