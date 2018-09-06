@@ -1,10 +1,10 @@
 # Design Guidelines for Tableau Dashboard Extensions
 
-With the release of Extensions in [Tableau Desktop 2018.2](https://www.tableau.com/support/releases/desktop/2018.2), we're unleashing the creativity and problem-solving skills of passionate developers to make extensions for Tableau dashboards. Here’s your roadmap towards designing great extensions.
+With the release of Extensions in [Tableau Desktop 2018.2](https://www.tableau.com/support/releases/desktop/2018.2), we're unleashing the creativity and problem-solving skills of passionate developers to make extensions for Tableau dashboards. Here’s your roadmap for designing great extensions.
 
 
 ### About
-This document is focused on guiding developers towards best practices for designing extensions, including both user interaction and visual style guidelines. For more technical information about extensions, refer to our [Extensions API Documentation](https://tableau.github.io/extensions-api/).
+This document is focused on guiding developers towards best practices for designing extensions, including user interaction and visual style guidelines. For technical information about extensions, refer to our [Extensions API Documentation](https://tableau.github.io/extensions-api/).
 
 
 ### What are Dashboard Extensions?
