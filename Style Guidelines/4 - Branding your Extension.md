@@ -39,10 +39,13 @@ Either option offers flexibility in the styling and content of your extension. I
 ## Placement
 Your extension can be branded through two components: the **configuration dialog** and the **extension container**. Here's how to place brand elements in each of these areas. 
 
-<i>Links to review component usage and controls specifications</i>:
+* [Configuration Dialog](#configuration-dialog)
+* [Extension Container](#extension-container)
 
-* **[Extension Components and Modes](Interaction Guidelines/2 - Extension Components and Modes.md)**
-* **[Controls and UI Patterns](Interaction Guidelines/3 - Controls and UI Patterns.md)**
+<i>Review component usage and controls specifications</i>:
+
+* [2 – Extension Components and Modes](../Interaction%20Guidelines/2%20-%20Extension%20Components%20and%20Modes.md)
+* [3 – Controls and UI Patterns](../Interaction%20Guidelines/3%20-%20Controls%20and%20UI%20Patterns.md)
 
 &nbsp;
 
@@ -56,11 +59,11 @@ One place to put brand elements in a configuration dialog is the header region. 
 
 The recommended height for the branded header is **50px** with vertical margins of **12px** and horizontal margins of **18px**. In this brand header, a logo/wordmark is **26px**. Because the header is also where the extension name is displayed, headers are limited in size as to not distract from the main content of the extension dialog. This is the preferred header styling for configuration dialogs.
 
-![branded headers for configuration dialogs](imgs/4-config headers.png)
+![branded headers for configuration dialogs](imgs/4-config%20headers.png)
 
 If your extension's configuration dialog is large and includes more content and controls, your brand elements may benefit from being larger. This header styling should only be used if the configuration dialog is **larger than 375px in height**. 
 
-![alternative brand headers - larger configuration dialogs](imgs/4-large config headers.png)
+![alternative brand headers - larger configuration dialogs](imgs/4-large%20config%20headers.png)
 
 &nbsp;
 
@@ -69,10 +72,9 @@ Another place to put brand elements in a configuration dialog is the footer regi
 
 **If you have brand elements that must be displayed at larger than 40px in height, it is preferable to use a branded footer.** The branded footer can accomodate variable heights of elements, small or large. However, still ensure that the branded footer elements do not visually overwhelm the main extension content that lives above it. 
 
-![branded footers for configuration dialogs](imgs/4-config footers.png)
+![branded footers for configuration dialogs](imgs/4-config%20footers.png)
 
 &nbsp;
-
 
 &nbsp;
 
@@ -88,11 +90,11 @@ Space is limited in extension containers because the content should be mainly fo
 
 Brand elements must be minimal and limited to the corners of headers and footers. We recommend placing logos in the corners of the container because this placement will allow for a brand presence to be noticed, but is still separate enough from the content. 
 
-![branded header for extension container](imgs/4-container header.png)
+![branded header for extension container](imgs/4-container%20header.png)
 
 The max height of header and footer zones should be **50px or less**. Content in the extension container should maintain a minimum of **12px** from the tops and bottoms (vertical margins), and **15px** from the left and right sides (horizontal margins). 
 
-![branded footer for extension container](imgs/4-container footer.png)
+![branded footer for extension container](imgs/4-container%20footer.png)
 
 &nbsp; 
 
@@ -101,7 +103,7 @@ While a user is initially configuring the extension, the extension container doe
 
 Here are some examples of things you can do with this empty space.
 
-![empty container state](imgs/4-empty container state.png)
+![empty container state](imgs/4-empty%20container%20state.png)
 
 | | Description |
 | --- | --- |
@@ -133,6 +135,6 @@ Any external links must open in the user's OS browser, not within Tableau's exte
 
 ---
 
-### <div id="expand-box"><div id="expand-box-header">[<span style="float: right;">5 – Layout &#8594; </span>](5 - Layout.md)</div></div>
+### <div id="expand-box"><div id="expand-box-header">[<span style="float: right;">5 – Layout &#8594; </span>](5%20-%20Layout.md)</div></div>
 
-##### <div id="expand-box"><div id="expand-box-header">[<span style="float: left;">Style Guidelines</span>](Style Guidelines)</div></div>
+##### <div id="expand-box"><div id="expand-box-header">[<span style="float: left;">Style Guidelines</span>](../Style%20Guidelines)</div></div>
