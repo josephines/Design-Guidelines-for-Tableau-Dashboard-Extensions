@@ -10,6 +10,8 @@ This document is focused on guiding developers towards best practices for design
 ### What are Dashboard Extensions?
 Tableau Dashboard Extensions are web applications that have two-way communication with the dashboard. Dashboard extensions enable all sorts of scenarios, like letting you integrate Tableau with custom applications, making possible for you to modify the data for a visualization, or even creating custom visualizations inside the dashboard. 
 
+![Extensions are made using a manifest file called a .trex! FreLard stands for the Seattle neighborhoods of Fremont and Wallingford, where Tableau's headquarters stands.](imgs/trex.png)
+
 &nbsp;
 
 # Contents
@@ -77,7 +79,5 @@ Guidelines on what you need to share your extension to Tableau's Extension Galle
 
 ---
 &nbsp;
-
-![Extensions are made using a manifest file called a .trex! FreLard stands for the Seattle neighborhoods of Fremont and Wallingford, where Tableau's headquarters stands.](imgs/trex.png)
 
 *This document is a work-in-progress. To give feedback, ask questions, or if you have technical questions about Extensions, please contact devplat@tableau.com.*
