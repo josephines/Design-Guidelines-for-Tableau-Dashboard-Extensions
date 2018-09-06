@@ -23,14 +23,14 @@ We recommend that you use a **sans serif font family** in your extension. Here, 
 &nbsp;
 
 #### Benton Sans
-Benton Sans Book is the default font for the Tableau UI elements. <i>Learn more about Tableau font colors at **[Color](6 - Color.md)**.</i>
+Benton Sans Book is the default font for the Tableau UI elements. <i>Learn more about Tableau font colors at **[Color](6%20-%20Color.md)**.</i>
 
 Other weight variations of Benton Sans should be used infrequently. For example, Benton Sans Medium is typically used for section titles in dialogs. Benton Sans Light and Book Italic are used in more specific cases like lightweight captions and should not be overused. 
 
 ###### Font Size
 For Tableau Desktop, the default size for Benton Sans on Mac OS X is **12pt**. The default size for Benton Sans on Windows is **10pt**. 
 
-![benton sans weights](imgs/7-benton sans.png)
+![benton sans weights](imgs/7-benton%20sans.png)
 
 You may use Benton Sans if you want your extension to look and feel natural to Tableau. Tableau is a licensed commercial user of Benton Sans–so if there are potential conflicts or liabilities with using Benton Sans due to your company branding, we have listed several alternative fonts below.
 
@@ -56,7 +56,7 @@ It is important to compensate for OS and device speciﬁc DPI and font rendering
 
 ---
 
-### <div id="expand-box"><div id="expand-box-header">[<span style="float: left;">Style Guidelines</span>](Style Guidelines)</div></div>
+### <div id="expand-box"><div id="expand-box-header">[<span style="float: left;">Style Guidelines</span>](../Style%20Guidelines)</div></div>
 
 
-##### <div id="expand-box"><div id="expand-box-header">[<span style="float: left;">&#8592; 6 – Color</span>](6 - Color.md)</div></div>
+##### <div id="expand-box"><div id="expand-box-header">[<span style="float: left;">&#8592; 6 – Color</span>](6%20-%20Color.md)</div></div>
