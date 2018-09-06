@@ -13,7 +13,7 @@ Generally, dashboard containers will automatically size to one of these formats:
 
 Your extension content should consider how it would display properly when the container spans wide or horizontally.
 
-![container size - full horizontal width](imgs/5-full width.png)
+![container size - full horizontal width](imgs/5-full%20width.png)
 
 &nbsp;
 
@@ -21,7 +21,7 @@ Your extension content should consider how it would display properly when the co
 
 Your extension content should also consider how it would display properly when the container spans tall or vertically. 
 
-![container size - full vertical height](imgs/5-full height.png)
+![container size - full vertical height](imgs/5-full%20height.png)
 
 &nbsp;
 
@@ -43,9 +43,9 @@ Specifications about spacing have been detailed in **[Controls and UI Patterns](
 
 Here are some links to specific parts of your extension that you may need spacing guidance on:
 
-* [**Dialogs** (Controls and UI Patterns)](Interaction Guidelines/3 - Controls and UI Patterns.md#dialogs)
-* [**Configuration Dialog** (Branding your Extension)](4 - Branding your Extension.md#configuration-dialog)
-* [**Extension Container** (Branding your Extension)](4 - Branding your Extension.md#extension-container)
+* [**Dialogs** (Controls and UI Patterns)](../Interaction%20Guidelines/3%20-%20Controls%20and%20UI%20Patterns.md#dialogs)
+* [**Configuration Dialog** (Branding your Extension)](4%20-%20Branding%20your%20Extension.md#configuration-dialog)
+* [**Extension Container** (Branding your Extension)](4%20-%20Branding%20your%20Extension.md#extension-container)
 
 
 &nbsp;
@@ -55,7 +55,7 @@ Here are some links to specific parts of your extension that you may need spacin
 
 ---
 
-### <div id="expand-box"><div id="expand-box-header">[<span style="float: right;">6 – Color &#8594; </span>](6 - Color.md)</div></div>
+### <div id="expand-box"><div id="expand-box-header">[<span style="float: right;">6 – Color &#8594; </span>](6%20-%20Color.md)</div></div>
 
-##### <div id="expand-box"><div id="expand-box-header">[<span style="float: left;">&#8592; 4 – Branding your Extension</span>](4 - Branding your Extension.md)</div></div>
+##### <div id="expand-box"><div id="expand-box-header">[<span style="float: left;">&#8592; 4 – Branding your Extension</span>](4%20-%20Branding%20your%20Extension.md)</div></div>
 
