@@ -6,11 +6,11 @@ Use of color is essential for communication. Color is one of the first visual el
 
 ## Color Principles
 
-**Use colors with purpose and clarity.** Your color choices should highlight your extension's content, while also communicating its function. You should be able to justify the colors used on your extension: why did you choose that specific color, and what does it communicate to your user? Color is also an opportunity to showcase your brand. Learn more at **[Branding your Extension](4 - Branding your Extension.md)**.
+**Use colors with purpose and clarity.** Your color choices should highlight your extension's content, while also communicating its function. You should be able to justify the colors used on your extension: why did you choose that specific color, and what does it communicate to your user? Color is also an opportunity to showcase your brand's signature colors.
 
 **Less is more.** Refrain from using too many colors, which could blur the focus. Try to avoid using color applied to text, which can make words difficult to distinguish and decrease legibility. 
 
-**Consider vision accessibility.** Some part of the population have varying levels of color-vision deficiencies. Choose color palettes that can work well universally. This typically means avoiding reds and greens, or at least choosing reds and greens that can be seen by people with CVD.
+**Consider vision accessibility.** Some part of the population have varying levels of color-vision deficiencies (CVD). Choose color palettes that can work well universally. This typically means avoiding reds and greens, or at least choosing reds and greens that can be seen by people with CVD.
 
 &nbsp;
 
@@ -28,8 +28,8 @@ Colors are a key piece of the visual design language. Colors allow for quick and
 
 | Dimension  |  Measure | Confirmation | Attention |  Action |
 |---|---|---|---|---|
-| ![Discrete Blue](imgs/6-discrete blue.png)<br>**Discrete Blue**<br>73, 150, 178<br>#4996B2 | ![Continuous Green](imgs/6-continuous green.png)<br>**Continuous Green**<br>0, 177, 128<br>#00B180 | ![Go Green](imgs/6-go green.png)<br>**Go Green**<br>45, 204, 151<br>#2DCC97 | ![Attention Red](imgs/6-attention red.png)<br>**Attention Red**<br>235, 68, 84<br>#EB4454 | ![Action Orange](imgs/6-action orange.png)<br>**Action Orange**<br>235, 143, 80<br>#EB8F50 | 
-| ![Discrete Dark](imgs/6-discrete dark.png)<br>**Discrete Dark**<br>54, 126,156<br>#367E9C | ![Continuous Dark](imgs/6-continuous dark.png)<br>**Continuous Dark**<br>0, 151, 104<br>#009768 | ![Go Green Dark](imgs/6-go green dark.png)<br>**Go Green Dark**<br>47, 163, 125<br>#2FA37D | ![Attention Red Dark](imgs/6-attention red dark.png)<br>**Attention Red Dark**<br>201, 58, 71<br>#C93A47 | ![Action Orange Dark](imgs/6-action orange dark.png)<br>**Action Orange Dark**<br>222, 107, 54<br>#DE6B36 |
+| ![Discrete Blue](imgs/6-discrete%20blue.png)<br>**Discrete Blue**<br>73, 150, 178<br>#4996B2 | ![Continuous Green](imgs/6-continuous%20green.png)<br>**Continuous Green**<br>0, 177, 128<br>#00B180 | ![Go Green](imgs/6-go%20green.png)<br>**Go Green**<br>45, 204, 151<br>#2DCC97 | ![Attention Red](imgs/6-attention%20red.png)<br>**Attention Red**<br>235, 68, 84<br>#EB4454 | ![Action Orange](imgs/6-action%20orange.png)<br>**Action Orange**<br>235, 143, 80<br>#EB8F50 | 
+| ![Discrete Dark](imgs/6-discrete%20dark.png)<br>**Discrete Dark**<br>54, 126,156<br>#367E9C | ![Continuous Dark](imgs/6-continuous%20dark.png)<br>**Continuous Dark**<br>0, 151, 104<br>#009768 | ![Go Green Dark](imgs/6-go%20green%20dark.png)<br>**Go Green Dark**<br>47, 163, 125<br>#2FA37D | ![Attention Red Dark](imgs/6-attention%20red%20dark.png)<br>**Attention Red Dark**<br>201, 58, 71<br>#C93A47 | ![Action Orange Dark](imgs/6-action%20orange%20dark.png)<br>**Action Orange Dark**<br>222, 107, 54<br>#DE6B36 |
 
 &nbsp;
 
@@ -50,8 +50,8 @@ Fonts in Tableau range from black to white and a variety of opacities. Primary, 
 
 |   |   |   |   |   |   |
 |---|---|---|---|---|---|
-| ![100% Black](imgs/6-100 black.png)<br>**100% Black**<br>Focused | ![80% Black](imgs/6-80 black.png)<br>**80% Black**<br>Primary | ![70% Black](imgs/6-70 black.png)<br>**70% Black**<br>Secondary | ![60% Black](imgs/6-60 black.png)<br>**60% Black**<br>Tertiary | ![56% Black](imgs/6-56 black.png)<br>**56% Black**<br>Tertiary | ![35% Black](imgs/6-35 black.png)<br>**35% Black**<br>Disabled
-| ![100% White](imgs/6-100 white.png)<br>**100% White**<br>Primary | ![56% White](imgs/6-56 white.png)<br>**56% White**<br>Secondary | ![35% White](imgs/6-35 white.png)<br>**35% White**<br>Disabled
+| ![100% Black](imgs/6-100%20black.png)<br>**100% Black**<br>Focused | ![80% Black](imgs/6-80%20black.png)<br>**80% Black**<br>Primary | ![70% Black](imgs/6-70%20black.png)<br>**70% Black**<br>Secondary | ![60% Black](imgs/6-60%20black.png)<br>**60% Black**<br>Tertiary | ![56% Black](imgs/6-56%20black.png)<br>**56% Black**<br>Tertiary | ![35% Black](imgs/6-35%20black.png)<br>**35% Black**<br>Disabled
+| ![100% White](imgs/6-100%20white.png)<br>**100% White**<br>Primary | ![56% White](imgs/6-56%20white.png)<br>**56% White**<br>Secondary | ![35% White](imgs/6-35%20white.png)<br>**35% White**<br>Disabled
 
 &nbsp;
 
@@ -60,6 +60,6 @@ Fonts in Tableau range from black to white and a variety of opacities. Primary, 
 
 ---
 
-### <div id="expand-box"><div id="expand-box-header">[<span style="float: right;">7 – Fonts &#8594; </span>](7 - Fonts.md)</div></div>
+### <div id="expand-box"><div id="expand-box-header">[<span style="float: right;">7 – Fonts &#8594; </span>](7%20-%20Fonts.md)</div></div>
 
-##### <div id="expand-box"><div id="expand-box-header">[<span style="float: left;">&#8592; 5 – Layout</span>](5 - Layout.md)</div></div> 
+##### <div id="expand-box"><div id="expand-box-header">[<span style="float: left;">&#8592; 5 – Layout</span>](5%20-%20Layout.md)</div></div> 
