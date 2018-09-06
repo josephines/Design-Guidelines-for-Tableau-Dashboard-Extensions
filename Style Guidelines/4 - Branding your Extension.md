@@ -5,8 +5,8 @@ Whether you’re a developer from one of our partners or an independent develope
 * [Branding Principles](#branding-principles)
 * [Styling Options](#styling-options)
 * [Placement](#placement)
-* * [Configuration Dialog](#configuration-dialog)
-* * [Extension Container](#extension-container)
+  * [Configuration Dialog](#configuration-dialog)
+  * [Extension Container](#extension-container)
 * [Media and External Links](#media-and-external-links)
 
 ## Branding Principles
@@ -24,7 +24,7 @@ You have the option of using Tableau's visual styling or your personal/company b
 
 **You might style your extension like Tableau if...**
 
-* You want your extension to match the visual style of Tableau’s workbooks, making it feel like it fits naturally into Tableau.
+* You want your extension to match the visual style of Tableau’s workbooks, making it fit naturally into Tableau.
 * You don’t have a style guide to work with currently, and want to use a generic one for extensions.
 
 **You might style your extension with personal or company branding if...**
