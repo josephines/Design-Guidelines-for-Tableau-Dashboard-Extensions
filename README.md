@@ -4,7 +4,7 @@ With the release of Extensions in [Tableau Desktop 2018.2](https://www.tableau.c
 
 
 ### About
-This document is focused on guiding developers towards best practices for designing extensions, including user interaction and visual style guidelines. For technical information about extensions, refer to our [Extensions API Documentation](https://tableau.github.io/extensions-api/).
+This document is focused on guiding developers towards best practices for designing extensions, including user interaction and visual style guidelines. For technical guidance, refer to our [Extensions API Documentation](https://tableau.github.io/extensions-api/).
 
 
 ### What are Dashboard Extensions?
