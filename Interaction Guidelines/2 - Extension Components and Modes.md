@@ -45,9 +45,9 @@ The extension container lives in a dashboard, and is the primary place to displa
 
 This is where authors can access the dropdown menu for more options, such as configuration and information about the extension.
 
-![extension container](imgs/2-chrome menu.png)
+![extension container](imgs/2-chrome%20menu.png)
 
-<i>Learn more about branding your extension container at [**Extension Container** (Branding your Extension)](Style Guidelines/4 - Branding your Extension.md#extension-container).</i>
+<i>Learn more about branding your extension container at [**Extension Container** (Branding your Extension)](Style%20Guidelines/4%20-%20Branding%20your%20Extension.md#extension-container).</i>
 
 &nbsp;
 
@@ -58,9 +58,9 @@ The configuration dialog is the primary way that dashboard authors can customize
 
 This dialog is only available to dashboard authors, It is primarily accessible through the dropdown menu present on the Extension Container. It is not visible to regular dashboard viewers. Learn more below at **[Configuration Mode](#configuration-mode)**.
 
-![configuration dialog](imgs/2-config dialog.png)
+![configuration dialog](imgs/2-config%20dialog.png)
 
-<i>Learn more about branding your configuration dialog at [**Configuration Dialog** (Branding your Extension)](Style Guidelines/4 - Branding your Extension.md#configuration-dialog).</i>
+<i>Learn more about branding your configuration dialog at [**Configuration Dialog** (Branding your Extension)](Style%20Guidelines/4%20-%20Branding%20your%20Extension.md#configuration-dialog).</i>
 &nbsp;
 
 &nbsp;
@@ -69,7 +69,7 @@ This dialog is only available to dashboard authors, It is primarily accessible t
 ## About Extension Dialog
 The about extension dialog exists for dashboard authors to access support and version information about the extension in the dashboard. Currently, this dialog is not available for regular dashboard viewers on Tableau Online. Learn more below at **[Configuration Mode](#configuration-mode)**
 
-![about extension dialog](imgs/2-about dialog.png)
+![about extension dialog](imgs/2-about%20dialog.png)
 
 &nbsp;
 
@@ -88,14 +88,14 @@ This mode is available only to dashboard authors. Here, we describe how configur
 #### Extension Container
 The extension container offers a high level of functionality for dashboard authors. This is where authors can access the extension menu to reach the configuration dialog and other information about the extension.
 
-![extension container](imgs/2-chrome menu annotated.png)
+![extension-container](imgs/2-chrome%20menu%20annotated.png)
 
 &nbsp;
 
 #### Configuration Dialog
 The configuration dialog allows dashboard authors to customize extensions in their dashboards. These are some general components that a configuration dialog should ideally include.
 
-![config dialog example](imgs/2-config dialog annotated.png)
+![config-dialog-example](imgs/2-config%20dialog%20annotated.png)
 
 |     | Details |
 | --- | ------- |
@@ -106,14 +106,14 @@ The configuration dialog allows dashboard authors to customize extensions in the
 | **Tagline**  | The tagline is one sentence in the help tag that explains what the extension does. The maximum character limit is 96 characters.|
 | **Confirmation** | Make sure there is a clear way for users to apply changes made while configuring the extension. |
 
-<i>Learn more about **[Controls and UI Patterns](3 - Controls and UI Patterns.md)** to use in your configuration dialog.</i>
+<i>Learn more about **[Controls and UI Patterns](3%20-%20Controls%20and%20UI%20Patterns.md)** to use in your configuration dialog.</i>
 
 &nbsp;
 
 ##### Automatic Configuration Popup
 Many extensions require an author to configure the extension before using it in the dashboard. The configuration dialog is accessible through the extension dropdown menu, but to speed up the process, you can skip directly to the configuration dialog. You can set a configuration dialog to pop up automatically after an author adds your extension into their dashboard. 
 
-![automatic configuration popup](imgs/gifs/2-config popup.gif)
+![automatic configuration popup](imgs/gifs/2-config%20popup.gif)
 
 While this is optional, **we strongly recommend using this popup pattern** because when an author is configuring the extension for the first time, there often isn't any content present in the extension container until the extension has been configured. Using this popup pattern will allow authors to start configuring the extension right away.
 
@@ -124,7 +124,7 @@ While this is optional, **we strongly recommend using this popup pattern** becau
 #### About Extension Dialog
 The About Extension Dialog is automatically created using the content from your .trex manifest, which includes items such as your extension’s name, developer info, support, source ID, version info, etc. This is also accessible through the dropdown menu in the extension container.
 
-![about extension dialog](imgs/2-about dialog annotated.png)
+![about extension dialog](imgs/2-about%20dialog%20annotated.png)
 
 <i>Learn more about the manifest file at [Tableau Extension Manifest File (Extensions API Documentation)](https://tableau.github.io/extensions-api/docs/trex_manifest.html).</i>
 
@@ -156,6 +156,6 @@ However, if viewers have permission to edit the workbook on Tableau Online or do
 
 ---
 
-### <div id="expand-box"><div id="expand-box-header">[<span style="float: right;"> 3 – Controls and UI Patterns &#8594;</span>](3 - Controls and UI Patterns.md)</div></div>
+### <div id="expand-box"><div id="expand-box-header">[<span style="float: right;"> 3 – Controls and UI Patterns &#8594;</span>](3%20-%20Controls%20and%20UI%20Patterns.md)</div></div>
 
-##### <div id="expand-box"><div id="expand-box-header">[<span style="float: left;">&#8592; 1 – Build, Use, Share</span>](1 - Build, Use, Share.md)</div></div>
+##### <div id="expand-box"><div id="expand-box-header">[<span style="float: left;">&#8592; 1 – Build, Test, Share</span>](1%20-%20Build,%20Test,%20Share.md)</div></div>
