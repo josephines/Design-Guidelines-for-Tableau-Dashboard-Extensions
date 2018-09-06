@@ -27,7 +27,7 @@ Once you're ready to go, you can start building and customizing your extension. 
 ## Test
 Ensure that your extension works properly for different test cases. Try it on your own dashboards, test it with others, and uncover possible edge cases. 
 
-Consider that dashboard extensions can be both **configured** and **viewed** in Tableau. These terms refer to two usage modes we recommend for extensions. To read about these modes and their audiences, learn more at **[Extension Components and Modes](2 - Extension Components and Modes.md)**. 
+Consider that dashboard extensions can be both **configured** and **viewed** in Tableau. These terms refer to two usage modes we recommend for extensions. To read about these modes and their audiences, learn more at **[Extension Components and Modes](2%20-%20Extension%20Components%20and%20Modes.md)**. 
 
  
 &nbsp; 
@@ -37,7 +37,7 @@ After you've completed making your extension, you may want to share your extensi
 
 
 ##### Extension Gallery
-Tableau has released the [Extension Gallery](https://extensiongallery.tableau.com/), a place to explore and download some extensions that our partners have created. If you would like to share your extension to our gallery, learn more at **[Sharing to the Extension Gallery](Sharing to the Extension Gallery.md)**. 
+Tableau has released the [Extension Gallery](https://extensiongallery.tableau.com/), a place to explore and download some extensions that our partners have created. If you would like to share your extension to our gallery, learn more at **[Sharing to the Extension Gallery](../Sharing%20to%20the%20Extension%20Gallery.md)**. 
 
 ##### Community Forums
 Tableau also has a [Community Forum](https://community.tableau.com/community/developers/extensions-api/overview) for developers to discuss extensions and the Extensions API. 
@@ -52,6 +52,6 @@ While you might not choose to share your extension directly with Tableau, we enc
 
 ---
 
-### <div id="expand-box"><div id="expand-box-header">[<span style="float: right;">2 – Extension Components and Modes &#8594;</span>](2 - Extension Components and Modes.md)</div></div>
+### <div id="expand-box"><div id="expand-box-header">[<span style="float: right;">2 – Extension Components and Modes &#8594;</span>](2%20-%20Extension%20Components%20and%20Modes.md)</div></div>
 
-##### <div id="expand-box"><div id="expand-box-header">[<span style="float: left;">Interaction Guidelines</span>](Interaction Guidelines)</div></div>
+##### <div id="expand-box"><div id="expand-box-header">[<span style="float: left;">Interaction Guidelines</span>](../Interaction%20Guidelines)</div></div>
