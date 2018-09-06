@@ -12,7 +12,7 @@ We've provided examples of controls that are used in Tableau. Using the exact st
 * [Text Fields](#text-fields)
 * [Tooltips](#tooltips)
 
-The controls described here use Tableau branding, accessible from the **[Color](Style Guidelines/6 - Color.md)** and **[Fonts](Style Guidelines/7 - Fonts.md)** sections of these design guidelines.
+The controls described here use Tableau branding, accessible from the **[Color](../Style%20Guidelines/6%20-%20Color.md)** and **[Fonts](../Style%20Guidelines/7%20-%20Fonts.md)** sections of these design guidelines.
 
 ###### *At this time, we are only able to provide surface-level usage and design specifications for controls. We are working to make code for Tableau controls accessible to developers in the future.*
 
@@ -26,7 +26,7 @@ When performing an action, let users know that your extension is currently doing
 An activity indicator appears when a task is performed that will take an unknown amount of time, such as loading or synchronizing complex data. It disappears when the task is complete.
 
 
-![activity spinner](imgs/3-activity spinner-cover.png)
+![activity spinner](imgs/3-activity%20spinner-cover.png)
 
 ### Usage
 These activity spinners used in Tableau run at one rotation per second, and are non-interactive. 
@@ -36,9 +36,9 @@ Using this exact spinner in your extension is optional. For alternate options, w
 | Variations | Preview | SVG Code | How to use |
 |---------------------|:---------:|:---:|---|
 | **Large**<br>(50x50 px) | ![large gif](imgs/gifs/3-Large.gif) | [SVG](xml/large.xml) | Use only on light backgrounds <br> |
-| **Large with underlay**<br>(65x65 px) | ![large with underlay gif](imgs/gifs/3-Large with Underlay.gif) | [SVG](xml/large-with-underlay.xml) | Use on light or complex backgrounds to provide better contrast |
-| **Large on dark background**<br>(50x50 px) | ![large on dark background gif](imgs/gifs/3-Large on Dark Background.gif) | [SVG](xml/large-on-dark-background.xml) | Use only on dark backgrounds |
-| **Small on dark background**<br>(14x14 px) | ![small on dark background gif](imgs/gifs/3-Small on Dark Background.gif) | [SVG](xml/small-on-dark-background.xml) | Use only on small elements with dark backgrounds |
+| **Large with underlay**<br>(65x65 px) | ![large with underlay gif](imgs/gifs/3-Large%20with%20Underlay.gif) | [SVG](xml/large-with-underlay.xml) | Use on light or complex backgrounds to provide better contrast |
+| **Large on dark background**<br>(50x50 px) | ![large on dark background gif](imgs/gifs/3-Large%20on%20Dark%20Background.gif) | [SVG](xml/large-on-dark-background.xml) | Use only on dark backgrounds |
+| **Small on dark background**<br>(14x14 px) | ![small on dark background gif](imgs/gifs/3-Small%20on%20Dark%20Background.gif) | [SVG](xml/small-on-dark-background.xml) | Use only on small elements with dark backgrounds |
 | **Small**<br>(14x14 px) | ![small gif](imgs/gifs/3-Small.gif) | [SVG](xml/small.xml) | Use only on small elements with light backgrounds
 
 
@@ -58,7 +58,8 @@ A button communicates what happens when a user touches it. Button labels can con
 ### Usage
 |  | How to use |
 | --- | --- |
-| **Call-to-Action  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;**  | These buttons are primarily used in dialogues to indicate an action. Use colors to communicate function–for example, green is commonly used for confirmation buttons. Learn more about color usage at **[Colors](Style Guidelines/6 - Color.md)**.<br><br>You may also want to utilize branding practices on buttons. Learn more at **[Branding your Extension](Style Guidelines/4 - Branding your Extension.md)**. |
+| **Call-to-Action  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;**  | These buttons are primarily used in dialogues to indicate an action. Use colors to communicate function–for example, green is commonly used for confirmation buttons. Learn more about color usage at **[Colors](../Style%20Guidelines/6%20-%20Color.md)
+**.<br><br>You may also want to utilize branding practices on buttons. Learn more at **[Branding your Extension](../Style%20Guidelines/4%20-%20Branding%20your%20Extension.md)**. |
 | **Greyscale** | Greyscale buttons are used either to indicate a secondary action, or a button that has been disabled and a particular action needs to be taken before proceeding. |
 | **Text Button &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;** | This is a low-attention button, and should only be used to provide a secondary option in the case that the user wants to perform an action that isn’t the primary action. |
 | **Icon** | Buttons can have icons to add a helpful visual. If you use icons, include a text label or a help tag that is activated on hover. |
@@ -69,7 +70,7 @@ A button communicates what happens when a user touches it. Button labels can con
 
 Button placement guidelines apply to Call-to-Action and Greyscale buttons.
 
-![buttons placement](imgs/3-buttons-button placement.png)
+![buttons placement](imgs/3-buttons-button%20placement.png)
 
 &nbsp;
 
@@ -77,7 +78,7 @@ Button placement guidelines apply to Call-to-Action and Greyscale buttons.
 
 Primary buttons apply only to Call-to-Action buttons.
 
-![buttons primary](imgs/3-buttons-one primary button.png)
+![buttons primary](imgs/3-buttons-one%20primary%20button.png)
 
 &nbsp;
 
@@ -97,7 +98,7 @@ Primary buttons apply only to Call-to-Action buttons.
 
 ## Dialogs
 
-A dialog is a “conversation” between the system and the user, which often requests information or action from the user. For info about the extension configuration dialog, learn more at **[Extension Components and Modes](2 - Extension Components and Modes.md)**. 
+A dialog is a “conversation” between the system and the user, which often requests information or action from the user. For info about the extension configuration dialog, learn more at **[Extension Components and Modes](2%20-%20Extension%20Components%20and%20Modes.md)**. 
 
 ### Standard Dialog
 These dialogs are non-modal, meaning they can be used when the requested information is not essential to continue. The dialog can be left open while the user interacts with other components in the extension. 
@@ -112,14 +113,14 @@ If you’d like to have multiple sections to your dialogs, you may use tabs to s
 #### Top Tabs
 Top tabs allow a dialog to contain several pages of content in one place. Use this variation to have 3 distinct sections of content. Do not exceed 3 top tabs.
 
-![top tabs labeled](imgs/3-top tabs labeled.png)
+![top tabs labeled](imgs/3-top%20tabs%20labeled.png)
 
 &nbsp;
 
 #### Side Tabs
 If you need more tabs in a dialog than the top tab system can accommodate, it is appropriate to utilize the side tab style of navigation. Use this tab variation if you need 3 or more sections of content. Do not exceed 5 side tabs. 
 
-![side tabs labeled](imgs/3-side tabs labeled.png)
+![side tabs labeled](imgs/3-side%20tabs%20labeled.png)
 
 &nbsp;
 
@@ -130,28 +131,28 @@ Dialog content can vary widely, but consists of specific textual or UI elements 
 
 ##### Standard Dialog
 
-![standard dialog specs](imgs/3-dialogs-standard specs.png)
+![standard dialog specs](imgs/3-dialogs-standard%20specs.png)
 
 &nbsp;
 
 ##### Top Tab Dialog
 
-![top tab dialog specs](imgs/3-dialogs-top tabs specs.png)
+![top tab dialog specs](imgs/3-dialogs-top%20tabs%20specs.png)
 
-![top tab header specs](imgs/3-dialogs-top tabs header specs.png)
+![top tab header specs](imgs/3-dialogs-top%20tabs%20header%20specs.png)
 
 &nbsp;
 
 ##### Side Tab Dialog
 
-![side tab specs](imgs/3-dialogs-side tabs specs.png)
+![side tab specs](imgs/3-dialogs-side%20tabs%20specs.png)
 
 &nbsp;
 
 ##### Dialog Widths
 Dialog height will vary based on content but width will fit into one of these standard sizes. 
 
-![standard dialog widths](imgs/3-standard dialog widths.png)
+![standard dialog widths](imgs/3-standard%20dialog%20widths.png)
 
 &nbsp;
 
@@ -180,7 +181,7 @@ Dropdown controls allow multiple options to be expanded from a menu. Dropdowns h
 
 ##### Control Variations
 
-![control variations](imgs/3-dropdowns-control variations.png)
+![control variations](imgs/3-dropdowns-control%20variations.png)
 
 |  | How to use |
 | --- | --- |
@@ -193,7 +194,7 @@ Dropdown controls allow multiple options to be expanded from a menu. Dropdowns h
 
 ##### Menu Variations
 
-![menu variations](imgs/3-dropdowns-menu variations.png)
+![menu variations](imgs/3-dropdowns-menu%20variations.png)
 
 |  | How to use |
 | --- | --- |
@@ -215,7 +216,7 @@ Use the line style when stacking several dropdowns on top of each other to avoid
 
 There is no space between the control and the menu. The minimum menu width is 40px, and the maximum is 260px. Menus can be wider than the control, but should not be narrower.
 
-![align control and menus](imgs/3-dropdowns-menu align.png)
+![align control and menus](imgs/3-dropdowns-menu%20align.png)
 
 &nbsp;
 
@@ -226,17 +227,17 @@ Design specifications are grouped by the type of control and their corresponding
 
 ##### Controls
 
-![default controls+menu spec](imgs/3-dropdowns-controls and standard menu spec.png)
+![default controls+menu spec](imgs/3-dropdowns-controls%20and%20standard%20menu%20spec.png)
 
-![line controls spec](imgs/3-dropdowns-line controls spec.png)
+![line controls spec](imgs/3-dropdowns-line%20controls%20spec.png)
 
-![icon control](imgs/3-dropdowns-icon controls spec.png)
+![icon control](imgs/3-dropdowns-icon%20controls%20spec.png)
 
 ##### Menus
 
-![menu and flyout spec](imgs/3-dropdowns-menu and flyout spec.png)
+![menu and flyout spec](imgs/3-dropdowns-menu%20and%20flyout%20spec.png)
 
-![menu variations spec](imgs/3-dropdowns-menu variations spec.png)
+![menu variations spec](imgs/3-dropdowns-menu%20variations%20spec.png)
 
 &nbsp;
 
@@ -268,19 +269,19 @@ Selectors are a broad family of controls within the interface. This family has b
 
 ##### Pickers
 
-![pickers spec](imgs/3-selectors-pickers spec.png)
+![pickers spec](imgs/3-selectors-pickers%20spec.png)
 
 ##### Sliders
 
-![sliders spec](imgs/3-selectors-sliders spec.png)
+![sliders spec](imgs/3-selectors-sliders%20spec.png)
 
 ##### Steppers
 
-![steppers spec](imgs/3-selectors-steppers spec.png)
+![steppers spec](imgs/3-selectors-steppers%20spec.png)
 
 ##### Toggles
 
-![toggle spec](imgs/3-selectors-toggle spec.png)
+![toggle spec](imgs/3-selectors-toggle%20spec.png)
 
 &nbsp;
 
@@ -293,7 +294,7 @@ Selectors are a broad family of controls within the interface. This family has b
 ## Text Fields
 Text fields are places in the user interface where users enter text or phrases, such as on a form or sign in page.
 
-![text fields cover](imgs/3-text fields cover.png)
+![text fields cover](imgs/3-text fields%20cover.png)
 
 &nbsp;
 
@@ -311,7 +312,7 @@ Text fields are places in the user interface where users enter text or phrases, 
 
 Always use the line text field style in forms, or when fields are stacked.
 
-![text fields stacking](imgs/3-text fields stacking.png)
+![text fields stacking](imgs/3-text fields%20stacking.png)
 
 &nbsp; 
 
@@ -319,11 +320,11 @@ Always use the line text field style in forms, or when fields are stacked.
 
 ##### Default
 
-![text field specs](imgs/3-text field default specs.png)
+![text field specs](imgs/3-text field default%20specs.png)
 
 ##### Search
 
-![search field](imgs/3-text field search specs.png)
+![search field](imgs/3-text field search%20specs.png)
 
 
 &nbsp;
@@ -350,19 +351,19 @@ Descriptive tooltips are always anchored to the element with which they are asso
 
 Tooltips should not cover other icons in the toolbar, or block related content.
 
-![tooltips placement](imgs/3-tooltips placement.png)
+![tooltips placement](imgs/3-tooltips%20placement.png)
 
 ##### Content
 
 Include succinct copy that helps the user take their next step. 
 
-![tooltips content](imgs/3-tooltips content.png)
+![tooltips content](imgs/3-tooltips%20content.png)
 
 &nbsp;
 
 ### Specifications
 
-![tooltips spec](imgs/3-tooltips spec.png)
+![tooltips spec](imgs/3-tooltips%20spec.png)
 
 
 &nbsp;
@@ -373,6 +374,6 @@ Include succinct copy that helps the user take their next step.
 
 ---
 
-### <div id="expand-box"><div id="expand-box-header">[<span style="float: right;">Style Guidelines &#8594; </span>](Style Guidelines)</div></div>
+### <div id="expand-box"><div id="expand-box-header">[<span style="float: right;">Style Guidelines &#8594; </span>](../Style%20Guidelines)</div></div>
 
-##### <div id="expand-box"><div id="expand-box-header">[<span style="float: left;">&#8592; 2 – Extension Components and Modes</span>](2 - Extension Components and Modes.md)</div></div>
+##### <div id="expand-box"><div id="expand-box-header">[<span style="float: left;">&#8592; 2 – Extension Components and Modes</span>](../Interaction%20Guidelines/2%20-%20Extension%20Components%20and%20Modes.md)</div></div>
