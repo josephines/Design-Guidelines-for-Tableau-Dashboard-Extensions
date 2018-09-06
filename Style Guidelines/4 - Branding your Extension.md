@@ -4,8 +4,9 @@ Whether you’re a developer from one of our partners or an independent develope
 
 * [Branding Principles](#branding-principles)
 * [Styling Options](#styling-options)
-* [Configuration Dialog](#configuration-dialog)
-* [Extension Container](#extension-container)
+* [Placement](#placement)
+* * [Configuration Dialog](#configuration-dialog)
+* * [Extension Container](#extension-container)
 * [Media and External Links](#media-and-external-links)
 
 ## Branding Principles
@@ -42,10 +43,10 @@ Your extension can be branded through two components: the **configuration dialog
 * [Configuration Dialog](#configuration-dialog)
 * [Extension Container](#extension-container)
 
-<i>Review component usage and controls specifications</i>:
+<i>Review component usage and controls specifications:
 
 * [2 – Extension Components and Modes](../Interaction%20Guidelines/2%20-%20Extension%20Components%20and%20Modes.md)
-* [3 – Controls and UI Patterns](../Interaction%20Guidelines/3%20-%20Controls%20and%20UI%20Patterns.md)
+* [3 – Controls and UI Patterns](../Interaction%20Guidelines/3%20-%20Controls%20and%20UI%20Patterns.md)</i>
 
 &nbsp;
 
