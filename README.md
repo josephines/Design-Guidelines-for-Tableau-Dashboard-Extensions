@@ -23,17 +23,17 @@ These are all the main things you need to know about designing a great extension
 
 ## Interaction Guidelines
 
-#### [1 – Build, Test, Share](Interaction Guidelines/1 - Build, Test, Share.md)
+#### [1 – Build, Test, Share](Interaction%20Guidelines/1%20-%20Build,%20Test,%20Share.md)
 The developer's roadmap for how to get started developing and designing extensions.
 
 &nbsp;
 
-#### [2 – Extension Components and Modes](Interaction Guidelines/2 - Extension Components and Modes.md)
+#### [2 – Extension Components and Modes](Interaction%20Guidelines/2%20-%20Extension%20Components%20and%20Modes.md)
 The main user-facing components of an extension to create content for. Learn about modes for configuring extensions, viewing extensions, and dashboard user types.
 
 &nbsp;
 
-#### [3 – Controls and UI Patterns](Interaction Guidelines/3 - Controls and UI Patterns.md)
+#### [3 – Controls and UI Patterns](Interaction%20Guidelines/3%20-%20Controls%20and%20UI%20Patterns.md)
 Usage and design specifications for user interface controls and patterns in your extension.
 
 ###### *At this time, we are only able to provide surface-level usage and design specifications for controls. We are working to make code for Tableau controls accessible to developers in the future.*
@@ -44,22 +44,22 @@ Usage and design specifications for user interface controls and patterns in your
 
 ## Style Guidelines
 
-#### [4 – Branding your Extension](Style Guidelines/4 - Branding your Extension.md)
+#### [4 – Branding your Extension](Style%20Guidelines/4%20-%20Branding%20your%20Extension.md)
 How to style your extension in accordance with the Tableau brand and your personal/company brand.
 
 &nbsp;
 
-#### [5 – Layout](Style Guidelines/5 - Layout.md)
+#### [5 – Layout](Style%20Guidelines/5%20-%20Layout.md)
 Details about dashboard containers and spacing in the extension container.
 
 &nbsp;
 
-#### [6 – Color](Style Guidelines/6 - Color.md)
+#### [6 – Color](Style%20Guidelines/6%20-%20Color.md)
 Use color effectively in your extension, and an opportunity to use Tableau's colors.
 
 &nbsp;
 
-#### [7 – Fonts](Style Guidelines/7 - Fonts.md)
+#### [7 – Fonts](Style%20Guidelines/7%20-%20Fonts.md)
 Guidelines for fonts that can be used in extensions.
 
 &nbsp;
@@ -68,7 +68,7 @@ Guidelines for fonts that can be used in extensions.
 
 ## Deploying your Extension
 
-### [Sharing to the Extension Gallery](Sharing to the Extension Gallery.md)
+### [Sharing to the Extension Gallery](Sharing%20to%20the%20Extension%20Gallery.md)
 Guidelines on what you need to share your extension to Tableau's Extension Gallery.
 
 &nbsp;
