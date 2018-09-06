@@ -47,7 +47,7 @@ This is where authors can access the dropdown menu for more options, such as con
 
 ![extension container](imgs/2-chrome%20menu.png)
 
-<i>Learn more about branding your extension container at [**Extension Container** (Branding your Extension)](Style%20Guidelines/4%20-%20Branding%20your%20Extension.md#extension-container).</i>
+<i>Learn more about branding your extension container at [**Extension Container** (Branding your Extension)](../Style%20Guidelines/4%20-%20Branding%20your%20Extension.md#extension-container).</i>
 
 &nbsp;
 
@@ -60,7 +60,7 @@ This dialog is only available to dashboard authors, It is primarily accessible t
 
 ![configuration dialog](imgs/2-config%20dialog.png)
 
-<i>Learn more about branding your configuration dialog at [**Configuration Dialog** (Branding your Extension)](Style%20Guidelines/4%20-%20Branding%20your%20Extension.md#configuration-dialog).</i>
+<i>Learn more about branding your configuration dialog at [**Configuration Dialog** (Branding your Extension)](../Style%20Guidelines/4%20-%20Branding%20your%20Extension.md#configuration-dialog).</i>
 &nbsp;
 
 &nbsp;
